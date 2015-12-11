@@ -1,3 +1,3 @@
-# GuideApplication
-Android引导页
-#通用的android引导页
+#简单通用的android图片翻页引导页
+
+[截图]("/截图1.png")
