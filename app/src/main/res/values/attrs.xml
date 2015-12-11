@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PageControlView">
+        <attr name="focused_src" format="reference"></attr>
+        <attr name="unfocused_src" format="reference"></attr>
+        <attr name="cell_width" format="reference|dimension"></attr>
+        <attr name="cell_height" format="reference|dimension"></attr>
+    </declare-styleable>
+</resources>
