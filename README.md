@@ -1,3 +1,5 @@
 #简单通用的android图片翻页引导页
 
-![截图](/截图1.png =200x400)
+<div align="center">
+    <img src="./截图1.png" width="200" height="400" alt="截图" />
+</div>
